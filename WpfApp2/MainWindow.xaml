@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="Главное меню" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="345,273,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Кнопка" HorizontalAlignment="Left" Margin="55,115,0,0" VerticalAlignment="Top" Width="132" Height="30" RenderTransformOrigin="0.5,0.5"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="55,61,0,0" TextWrapping="Wrap" Text="Привет, Мир!" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
